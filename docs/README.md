@@ -2,7 +2,7 @@
 
 
 
-[我的持仓记录](/#/StockList)
+[我的持仓记录](/StockList)
 
 
 
