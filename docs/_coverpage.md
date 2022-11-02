@@ -3,4 +3,4 @@
 
 
 [GitHub](https://github.com/GuanTu/Stock)
-[Get Started](#我的股票盘后记录)
+[Get Started](/README)
